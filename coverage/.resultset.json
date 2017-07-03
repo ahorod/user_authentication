@@ -504,6 +504,7 @@
         0,
         0,
         0,
+        0,
         null,
         0,
         0,
@@ -527,6 +528,21 @@
         1,
         null
       ],
+      "/Users/Guest/Desktop/stack_overflow_test/app/mailers/user_mailer.rb": [
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        null
+      ],
       "/Users/Guest/Desktop/stack_overflow_test/app/models/application_record.rb": [
         1,
         1,
@@ -548,8 +564,8 @@
         1,
         null,
         1,
-        0,
-        0,
+        1,
+        1,
         null,
         null,
         1,
@@ -975,6 +991,26 @@
         1,
         null
       ],
+      "/Users/Guest/Desktop/stack_overflow_test/spec/mailers/user_mailer_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        3,
+        null,
+        1,
+        1,
+        0,
+        0,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
       "/Users/Guest/Desktop/stack_overflow_test/spec/models/post_spec.rb": [
         1,
         null,
@@ -994,6 +1030,9 @@
         null,
         1,
         1,
+        1,
+        1,
+        null,
         null
       ],
       "/Users/Guest/Desktop/stack_overflow_test/spec/requests/posts_spec.rb": [
@@ -1281,6 +1320,6 @@
         null
       ]
     },
-    "timestamp": 1499101300
+    "timestamp": 1499125187
   }
 }

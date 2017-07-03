@@ -7,6 +7,7 @@ class UsersController < ApplicationController
     @user = User.new(user_params)
     if @user.save
       flash[:notice] = "You've successfully signed up!"
+      UserMailer.signup_confirmation(@user).deliver
       session[:user_id] = @user.id
       redirect_to "/"
     else
